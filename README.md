@@ -87,7 +87,7 @@ I am a passionate Machine Learning Engineer and Data Scientist with over 2 years
 ### **Working Student Data Scientist**
 - **Würth Group**, Berlin, Germany (2023 - Present)  
   - Developed advanced Computer Vision solutions using models like **YoloV8**, **FastSAM**, and **Contrastive Learning**.  
-  - Created and deployed tools for **image segmentation**, **classification**, and **localization**.  
+  - Created tools for **image segmentation**, **classification**, and **localization**.  
 
 - **Unzer GmbH**, Berlin, Germany (2022)  
   - Built transaction risk classification models using **Gradient Boosting Machines** and **Neural Networks**.  
