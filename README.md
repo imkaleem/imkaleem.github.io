@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm M. Kaleem Ullah
-
 **Data Scientist | Machine Learning Engineer**  
 📍 Currently in Berlin, Germany  
 
