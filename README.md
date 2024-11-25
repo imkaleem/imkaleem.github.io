@@ -1,8 +1,3 @@
-# imkaleem.github.io
-Personal webpage.
-
-## Hi there 👋
-
 <!--
 **imkaleem/imkaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
