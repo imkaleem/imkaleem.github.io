@@ -105,4 +105,4 @@ When I'm not working with AI models, I enjoy exploring new technologies, contrib
 
 💡 **Let's connect and build innovative solutions together!**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imkaleem)](https://github.com/imkaleem/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=imkaleem)](https://github.com/imkaleem/github-profile-trophy) -->
