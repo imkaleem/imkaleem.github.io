@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 **Data Scientist | Machine Learning Engineer**  
-📍 Currently in Berlin, Germany  
+📍 Berlin, Germany
 
 ---
 
